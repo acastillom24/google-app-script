@@ -1,9 +1,9 @@
 /**
  * Devuelve el número de elementos en un rango
  * 
- * @param {numero 1} range Rango de datos a contar
- * @param {numero 2} min Intervalo inferior
- * @param {numero 3} max Intervalo superior
+ * @param {range} range Rango de datos a contar
+ * @param {min} min Intervalo inferior
+ * @param {max} max Intervalo superior
  * @return Devuelve el número de coincidencias
  * @customfunction
  */
