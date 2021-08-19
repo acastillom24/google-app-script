@@ -1,3 +1,8 @@
+/*
+Script tomado del blog: Iñaki Huerta
+Link: t.ly/bsMM
+*/
+
 function launchPredefinedImports()
 {
   var importRanges = [
