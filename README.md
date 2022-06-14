@@ -1,2 +1,2 @@
 # googleAppScriptSF
-script desarrollados con GAS
+scripts desarrollados con GAS
